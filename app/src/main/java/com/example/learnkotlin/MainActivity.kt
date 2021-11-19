@@ -23,6 +23,7 @@ class MainActivity : AppCompatActivity() {
         btnaddd = findViewById(R.id.btnadd)
         btndelete = findViewById(R.id.btndelete)
         editText = findViewById(R.id.editText)
+        
 
 
         recyclerview.layoutManager = LinearLayoutManager(this);
